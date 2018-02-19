@@ -21,3 +21,5 @@ COPY www /var/www/html
 VOLUME /var/www/html
 
 ADD README.md README.md
+
+EXPOSE 8080
