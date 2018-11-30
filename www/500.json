@@ -1,0 +1,16 @@
+{
+    "errors": [
+      {
+        "id": "",
+        "code": "InternalServerError",
+        "status": "500",
+        "title": "Internal server error",
+        "detail": "Internal server error",
+        "source": {
+          "pointer": "",
+          "parameter": ""
+        },
+        "meta": {}
+      }
+    ]
+}

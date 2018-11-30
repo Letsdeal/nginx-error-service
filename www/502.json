@@ -1,0 +1,16 @@
+{
+    "errors": [
+      {
+        "id": "",
+        "code": "BadGateway",
+        "status": "502",
+        "title": "Bad gateway",
+        "detail": "Bad gateway",
+        "source": {
+          "pointer": "",
+          "parameter": ""
+        },
+        "meta": {}
+      }
+    ]
+}

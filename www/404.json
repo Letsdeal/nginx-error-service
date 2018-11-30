@@ -1,0 +1,16 @@
+{
+    "errors": [
+      {
+        "id": "",
+        "code": "NotFound",
+        "status": "404",
+        "title": "Not found",
+        "detail": "Not found",
+        "source": {
+          "pointer": "",
+          "parameter": ""
+        },
+        "meta": {}
+      }
+    ]
+}
