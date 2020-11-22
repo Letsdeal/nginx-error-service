@@ -1,0 +1,16 @@
+{
+    "errors": [
+      {
+        "id": "",
+        "code": "",
+        "status": "__STATUS__",
+        "title": "",
+        "detail": "",
+        "source": {
+          "pointer": "",
+          "parameter": ""
+        },
+        "meta": {}
+      }
+    ]
+}
