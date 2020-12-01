@@ -2,10 +2,10 @@
     "errors": [
       {
         "id": "",
-        "code": "GatewayTimeout",
-        "status": "504",
-        "title": "Gateway timeout",
-        "detail": "Gateway timeout",
+        "code": "",
+        "status": "__STATUS__",
+        "title": "",
+        "detail": "",
         "source": {
           "pointer": "",
           "parameter": ""
